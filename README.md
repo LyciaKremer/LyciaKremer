@@ -11,10 +11,10 @@
   <img alt="icon-adobe-illustrator" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
   <img alt="icon-adobe-photoshop" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img alt="icon-vscode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   
+  ![Snake animation](https://github.com/LyciaKremer/LyciaKremer/blob/output/github-contribution-grid-snake.svg)
 </div>
-    
-##
+  
+  ##
 
 <div align="center">
   <img alt="vetor-yodinha" src="https://user-images.githubusercontent.com/32186405/137845535-0b2a0566-4595-4b14-8c88-d704f47b8f05.png" height="100" width="100"/>
