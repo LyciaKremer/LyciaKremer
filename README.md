@@ -6,13 +6,17 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyciaKremer&bg_color=000000&title_color=fff&text_color=fff&border_color=0a9396&hide_border=false&icon_color=fff&layout=compact" alt="LyciaKremer :: Top Langs" />  
 </div>
 
-<h4 align="center">Atualmente busco aprofundar e evoluir meus conhecimentos de front-end com as seguintes tecnologias</h4>
+<h4 align="center">Essas são as minhas hard skills e atualmente busco aprofundar e evoluir meus conhecimentos de front-end com elas</h4>
   
 <div align="Center">
-   <img alt="icon-javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="icon-javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="icon-typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="icon-react" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="icon-html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="icon-css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="icon-styled-components" height="30" src="https://styled-components.com/logo.png" />
+  <img alt="icon-tailwindcss" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="icon-sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
   
 <h4 align="center">Meu kit de sobrevivência é composto por: muita curiosidade e essas ferramentas aqui...</h4>
