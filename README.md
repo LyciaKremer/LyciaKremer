@@ -1,14 +1,14 @@
-<h2 align="center">Olá, eu sou Lycia Kremer, desenvolvedora Front-end!</h2>
+# >> Hello world! 👋
+<pre>
+Me chamo Lycia, sou graduada em Sistemas de Informação e desde que senti a magia ao compreender meu primeiro código, 
+me entendo como programadora. 
+Entrei no mundo do front-end sabendo a importância da qualidade de software e desde então, busco sempre entregar 
+excelência no que faço, pois acredito que a beleza está nos pequenos pixels, ou detalhes, como preferir...
+</pre>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyciaKremer&bg_color=000000&show_icons=true&title_color=fff&text_color=0a9396&border_color=0a9396&count_private=true&hide_border=false&icon_color=fff" />  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyciaKremer&bg_color=000000&title_color=fff&text_color=fff&border_color=0a9396&hide_border=false&icon_color=fff&layout=compact" alt="LyciaKremer :: Top Langs" />  
-</div>
-
-<h4 align="center">Essas são as minhas hard skills e atualmente busco aprofundar e evoluir meus conhecimentos de front-end com elas</h4>
-  
-<div align="Center">
+## Tech Stack
+<div align="left">
+<p align="left">Essas são as minhas hard skills e atualmente busco aprofundar e evoluir meus conhecimentos em front-end com elas.</p>
   <img alt="icon-javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="icon-typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="icon-react" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -18,15 +18,16 @@
   <img alt="icon-tailwindcss" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img alt="icon-sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
-  
-<h4 align="center">Meu kit de sobrevivência é composto por: muita curiosidade e essas ferramentas aqui...</h4>
+
+<h2 align="left">Meus status</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyciaKremer&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyciaKremer&theme=algolia&hide_border=false&icon_color=fff&layout=compact" alt="LyciaKremer :: Top Langs" />  
+
+</div>
 
 <div align="Center">
-  <img alt="icon-python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="icon-vscode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="icon-Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img alt="icon-adobe-illustrator" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-  <img alt="icon-adobe-photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   
   ![Snake animation](https://github.com/LyciaKremer/LyciaKremer/blob/output/github-contribution-grid-snake.svg)
 </div>
