@@ -1,8 +1,10 @@
-<h2 align="center">Olá, eu sou Lycia Kremer, desenvolvedora Front-end e aspirante a UX Design!</h2>
+<h2 align="center">Olá, eu sou Lycia Kremer, desenvolvedora Front-end!</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyciaKremer&bg_color=000000&title_color=fff&text_color=0a9396&border_color=0a9396&show_icons=true&icon_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyciaKremer&langs_count=10&bg_color=000000&title_color=fff&text_color=fff&layout=compact&border_color=0a9396" alt="LyciaKremer :: Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyciaKremer&bg_color=000000&show_icons=true&title_color=fff&text_color=0a9396&border_color=0a9396&count_private=true&hide_border=false&icon_color=fff" />  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyciaKremer&bg_color=000000&title_color=fff&text_color=fff&border_color=0a9396&hide_border=false&icon_color=fff&layout=compact" alt="LyciaKremer :: Top Langs" />  
+</div>
 
 <h4 align="center">Atualmente busco aprofundar e evoluir meus conhecimentos de front-end com as seguintes tecnologias</h4>
   
