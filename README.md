@@ -1,6 +1,8 @@
 # >> Hello world! 👋
 <pre>
-Sou Desenvolvedora Front-End com 3 anos de experiência em desenvolvimento web, especializada em criar soluções modernas, responsivas e acessíveis que unem design funcional, performance e usabilidade.
+Sou Desenvolvedora Front-End com 3 anos de experiência em desenvolvimento web, 
+especializada em criar soluções modernas, responsivas e acessíveis que 
+unem design funcional, performance e usabilidade.
 </pre>
 
 ## 💻 Principais Competências  
