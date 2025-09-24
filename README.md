@@ -14,5 +14,5 @@ unem design funcional, performance e usabilidade.
 
 ## 📫 Contato  
 
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/lyciakremer/)  
+- **LinkedIn:** [Lycia Kremer](https://www.linkedin.com/in/lyciakremer/)  
 - **E-mail:** lyciakremer@gmail.com  
